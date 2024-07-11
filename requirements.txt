@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+EbookLib==0.18
+lxml==5.2.2
+PyQt6==6.7.0
+PyQt6-Qt6==6.7.2
+PyQt6-sip==13.6.0
+six==1.16.0
+soupsieve==2.5
